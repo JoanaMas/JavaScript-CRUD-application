@@ -1,0 +1,32 @@
+{
+  "books": [
+    {
+      "id": "3",
+      "author": "Stephen King",
+      "title": "Fairy Tale",
+      "year": "2022",
+      "completed": "false"
+    },
+    {
+      "id": "4",
+      "author": "Margaret Atwood",
+      "title": "The Handmaid's Tale",
+      "year": "1985",
+      "completed": "true"
+    },
+    {
+      "id": "5",
+      "author": "Harper Lee",
+      "title": "To Kill a Mockingbird",
+      "year": "1960",
+      "completed": "true"
+    },
+    {
+      "title": "test",
+      "author": "test",
+      "year": "1004",
+      "completed": false,
+      "id": "ICreg8g"
+    }
+  ]
+}

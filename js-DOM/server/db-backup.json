@@ -1,0 +1,39 @@
+{
+    "books": [
+        {
+            "id": "1",
+            "author": "J. K. Rowling",
+            "title": "Harry Potter and the Chamber of Secrets",
+            "year": "2002",
+            "completed": "true"
+        },
+        {
+            "id": "2",
+            "author": "James Clear",
+            "title": "Atomic Habits",
+            "year": "2018",
+            "completed": "false"
+        },
+        {
+            "id": "3",
+            "author": "Stephen King",
+            "title": "Fairy Tale",
+            "year": "2022",
+            "completed": "false"
+        },
+        {
+            "id": "4",
+            "author": "Margaret Atwood",
+            "title": "The Handmaid's Tale",
+            "year": "1985",
+            "completed": "true"
+        },
+        {
+            "id": "5",
+            "author": "Harper Lee",
+            "title": "To Kill a Mockingbird",
+            "year": "1960",
+            "completed": "true"
+        }
+    ]
+}

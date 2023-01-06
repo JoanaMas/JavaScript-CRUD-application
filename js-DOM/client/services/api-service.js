@@ -36,11 +36,29 @@ const createBook = async (bookProps) => {
     return books;
 }
 
+// DARBINE FUNKCIJA
+
+const updateBook = async (id, bookProps) => {
+    const response = await fetch(`${serverAddress}/books/${id}`, {
+        method: 'PATCH',
+        headers: {
+            "Content-Type": "application/json",
+            "accept": "application/json"
+        },
+        // JavaScript objektą turime pavesti į JSON
+        body: JSON.stringify(bookProps)
+    });
+
+    const books = await response.json();
+    return books;
+}
+
 
 const ApiService = {
     getBooks,
     deleteBook,
     createBook,
+    updateBook,
 };
 
 

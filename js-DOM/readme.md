@@ -5,7 +5,7 @@ Program files are divided in two folders: server & client. Server folder has it'
 <br>
 
 ## Application example
-![](/joana-mastianica-CRUD.gif)
+![](joana-mastianica-CRUD.gif)
 
 <br>
 
